@@ -1,0 +1,76 @@
+body {
+	background-color: #2a2a58;
+	padding-bottom: 20px;
+}
+
+
+
+
+
+.my-website1{
+	margin: 50px;
+	padding: 15px;
+	background-color:#424268;
+	border-radius: 40px 40px 0px 0px;
+}
+
+.first-div {
+text-align:center;
+color: white; 
+font-family: arial;
+
+}
+.container {
+	width: 1000px;
+	background-color: white;
+	margin-left: 199px;
+	text-align: left;
+	padding-bottom: 200px;
+	margin-top: -50px;
+	padding-top: 20px;
+}
+
+.Left-bar{
+
+	   width: 150px;
+	   background-color: white;
+	   margin-top: -476px;
+	   padding-bottom: 96px;
+	   margin-left: 50px;
+	   padding-top: 15px;
+
+}
+.footer-f {
+
+    background-color: #8a4e37;
+    width: 1150px;
+    margin-left: 49px;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 0px 0px 40px 40px;
+    margin-right: 1px;
+
+
+}
+.rasm {
+	margin-top: -135px;
+	margin-left: 193px;
+
+}
+
+a:link{
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
