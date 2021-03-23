@@ -1,0 +1,52 @@
+body{
+   height: 2000px;
+    margin: 0;
+    padding: 0;
+}
+
+.HEADER{
+    background-color: rgb(185, 72, 72);
+    width: 100%;
+
+    .nav{
+        max-width: 1140px;
+        padding: 10px 30px;
+        margin: 0 auto;
+        
+        &_menu{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            
+            a{ display: block;
+                text-decoration: none;
+                color: white;
+                margin-right: 30px;
+                padding: 10px 20px;
+                &:hover{
+                    background-color: rgb(109, 40, 40);
+                }
+            }
+        }
+    }
+}
+
+.l-main{
+    .first{
+       height: 500px; 
+       width: 100%;
+       background-color: yellow;
+       &_1{
+        color: white;
+       }
+    }
+    .two{
+        background-color: red;
+        height: 500px;
+        &_2{
+            color: blue;
+        }
+        
+    }
+}
+
