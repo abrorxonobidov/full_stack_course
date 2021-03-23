@@ -1,0 +1,144 @@
+body {
+	background-color: #b9b6a56e;
+	margin: 0;
+	padding: 0;
+}
+.container {
+	background-color: #e4c3c9;
+	width: 800px;
+	height: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 80px;
+	box-shadow: 1px 5px 9px 7px grey;
+	border-radius: 25px;
+}
+
+.left-box {	
+	float: left;
+	display: block;
+	margin: auto;
+	background-color: white;
+	width: 380px;
+	height: 500px;
+	border-radius: 25px 0 0 25px
+	
+
+}
+
+.right-box {
+	float: right;
+	display: block;
+	background-color: #ff00006e;
+	width: 380px;
+	margin: auto;
+	height: 500px;
+	border-radius: 0 25px 25px 0;
+}
+
+.left-box h1 {
+	text-align: center;
+	font-family: arial;
+	padding-top: 30px;
+	font-size: 40px;
+}
+
+.right-box h1 {
+	text-align: center;
+	font-family: arial;
+	padding-top: 90px;
+	font-size: 250%;
+	color: white;
+}
+
+.right-box p {
+	position: relative;
+	text-align: center;
+	font-size: 50%;
+	font-weight: 100;
+	bottom: 100px;
+	font-family: monospace;
+}
+.img1 {
+	float: left;
+	display: block;
+    padding-top: 30px;
+    padding-left: 130px;
+
+
+}
+
+.img2 {
+	float: right;
+	padding-top: 30px;
+	padding-right: 130px;
+
+}
+
+.dannie {
+	position: relative;
+	padding-top: 35%;
+    text-align: center;
+    font-family: system-ui;
+
+}
+
+input	{
+	position: relative;
+	margin-left: 50px;
+    width: 70%;
+    height: 30px;
+    background-color: #8080801f;
+}
+
+.forgot {
+	position: relative;
+	position: relative;
+    text-align: center;
+    font-family: system-ui;
+}
+
+input[type=submit] {
+
+	position: relative;
+    background-color: #ff81008c;
+    width: 150px;
+    border-radius: 10px;
+    height: 35px;
+    left: 65px;
+    bottom: 25px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

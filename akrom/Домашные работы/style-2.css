@@ -1,0 +1,70 @@
+body {
+	background-color: #171b1b4a;
+}
+.Form {
+	background-color: #080808c4;
+	max-width: 1000px;
+	min-width: 700px;
+	box-shadow: 0px 0px 5px 1px #ff8d00;
+	margin: 30px auto 30px auto;
+	
+}
+.Form h1 {
+	color: #ff8d00;
+	text-align: center;
+	padding-top: 30px;
+	font-family: arial;
+	margin: 30px auto 30px auto;
+	width: 100%;
+
+
+}
+.Form p {
+	color: white;
+	text-align: center;
+	width: 100%;
+}
+.bottom-form {
+	color: white;
+	padding: 30px;
+
+}
+
+.bottom-form input,
+.bottom-form textarea
+ {
+	width: 100%;
+	padding: 0;
+	border: 0;
+
+}
+.bottom-form textarea{
+	resize: vertical;
+}
+
+input[type=text]:focus,
+textarea:focus {
+    border: 1px solid #ff802f;
+    box-shadow: 0 0 3px 1px #ff802f;
+    outline: 0;
+}
+input[type=text] {
+	height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
