@@ -1,0 +1,9 @@
+.local-form input.form-control {
+    height: 80px;
+}
+.local-form label {
+    font-weight: bold;
+}
+.local-form #emailHelp {
+    color: #32804f;
+}
