@@ -7,3 +7,11 @@
 .local-form #emailHelp {
     color: #32804f;
 }
+.my-class {
+    margin-left: 20px;
+    margin-right: 20%;
+    float: left;
+    width: 22px;
+    height: 23px;
+
+}
