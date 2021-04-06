@@ -1,0 +1,17 @@
+.local-form input.form-control {
+    height: 80px;
+}
+.local-form label {
+    font-weight: bold;
+}
+.local-form #emailHelp {
+    color: #32804f;
+}
+.my-class {
+    margin-left: 20px;
+    margin-right: 20%;
+    float: left;
+    width: 22px;
+    height: 23px;
+
+}
