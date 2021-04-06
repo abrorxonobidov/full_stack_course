@@ -1,0 +1,27 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-color: antiquewhite;
+}
+.header{
+    width: 100%;
+    height: 20%;
+    background-color: green;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left_bar{
+    display: block;
+    float: left;
+    min-width: 20%;
+    height: 80%;
+    background-color: yellowgreen;
+}
+.content{
+    display: block;
+    float: left;
+    min-width: 80%;
+    height: 80%;
+    background-color: green;
+
+}
