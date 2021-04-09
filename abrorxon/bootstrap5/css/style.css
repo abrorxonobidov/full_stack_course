@@ -13,5 +13,22 @@
     float: left;
     width: 22px;
     height: 23px;
+}
 
+.work-area {
+    background-color: #dddddd;
+    min-height: 200px;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px 3px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.work-area .progress {
+    margin-bottom: 20px;
+}
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
 }
