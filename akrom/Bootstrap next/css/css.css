@@ -1,0 +1,20 @@
+.nimadur {
+    margin: 100px 100px 100px 100px;
+    color: red;
+    font-size: 20px;
+}
+
+/*.bi-tools{*/
+/*    font-size: 100px;*/
+/*}*/
+
+.my-tools {
+    font-size: 200px;
+    flood-color:fuchsia;
+}
+
+.my-image{
+    width: 100px;
+    height: 100px;
+}
+
