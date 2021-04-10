@@ -1,0 +1,32 @@
+body{
+    background-color: #81e9b9;
+}
+
+.local-style{
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #0c63e4;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.local-style2{
+    padding: 10px;
+    margin-top: 20px;
+    background-color: yellowgreen;
+    height: 350px;
+    border-radius: 10px;
+}
+.local-style3{
+    padding: 10px;
+    background-color: #0c63e4;
+    margin-top: 20px;
+    border-color: red;
+    border-radius: 10px;
+}
+.style3{
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+}

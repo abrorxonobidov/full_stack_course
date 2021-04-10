@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+.homepage{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+ }
+.homepage-text{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    right: 35%;
+    width: 30%;
+    height: 20%;
+    color: white;
+    text-align: center;
+    font-family: "Times New Roman";
+    background: transparent;
+    border: 3px solid #393a3e;
+}
+/*.homepage img{*/
+/*    width: 100%;*/
+/*    height: 100vh;*/
+/*}*/
+.menu{
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    right: 40%;
+    width: 20%;
+
+
+}
+ul  {
+    position: absolute;
+    list-style: none;
+    color: white;
+    float: left;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+
+}
+li{
+    margin: 5px;
+}
+li a{
+    color: white;
+}
+
+
+.fusion{
+    position: absolute;
+    top: 90%;
+    left: 10%;
+}
